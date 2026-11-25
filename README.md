@@ -4,7 +4,7 @@ About the Project
 
 Welcome to Group 127’s Financial Stress Prediction project!
 
-We are a team of 50 members working together on a Data Science and Machine Learning capstone project. Our goal is to develop a machine learning model that can identify customers who may experience financial stress within the next 30 days.
+We are a team of members working together on a Data Science and Machine Learning capstone project. Our goal is to develop a machine learning model that can identify customers who may experience financial stress within the next 30 days.
 
 Project Overview
 
